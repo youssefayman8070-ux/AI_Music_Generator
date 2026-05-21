@@ -4,5 +4,4 @@ music21
 numpy
 pandas
 pretty_midi
-pretty_midi
 scipy
